@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Computer Science and Engineering <br/> The Ohio State University <br/> <a href="#">:email:</a>&nbsp;&nbsp;kil.5@osu.edu <br/> <a href="https://scholar.google.com/citations?user=C3O0uxcAAAAJ&hl=en">[Google Scholar]</a>&nbsp;&nbsp;<a href="https://github.com/heendung">[Github]</a>
 
 profile:
   align: right
