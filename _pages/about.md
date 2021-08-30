@@ -17,4 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student in the [Department of Computer Science and Engineering](https://cse.osu.edu/) (CSE) at [The Ohio State University](https://www.osu.edu/) (OSU), advised by [Wei-Lun Harry Chao](https://sites.google.com/view/wei-lun-harry-chao/). I am broadly interested in machine learning and its applications to Computer Vision and Natural Language Processing.
+I am a Ph.D. student in the [Department of Computer Science and Engineering](https://cse.osu.edu/) (CSE) at [The Ohio State University](https://www.osu.edu/) (OSU), advised by [Wei-Lun Harry Chao](https://sites.google.com/view/wei-lun-harry-chao/). I am broadly interested in machine learning and its applications to Computer Vision and Natural Language Processing. <br><br>

@@ -2,6 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
+order: 2
 description:
 years: [2021]
 nav: true
