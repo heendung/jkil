@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /Publications/
 title: Publications
 order: 2
 description:
