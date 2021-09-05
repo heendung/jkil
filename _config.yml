@@ -7,7 +7,7 @@ first_name: Jihyung
 middle_name:
 last_name: Kil
 email: kil.5@osu.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: I am a Ph.D. student in the Department of Computer Science and Engineering at The Ohio State University, advised by Wei-Lun Harry Chao.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
