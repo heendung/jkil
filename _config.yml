@@ -98,7 +98,14 @@ collections:
     output: true
     permalink: /projects/:path/
 
+  experience:
+    defaults:
+      layout: post
+    output: true
+    permalink: /experience/:path/
+
 news_limit: 5
+experience_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
