@@ -17,11 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student in the [Department of Computer Science and Engineering](https://cse.osu.edu/) (CSE) at [The Ohio State University](https://www.osu.edu/) (OSU), advised by [Wei-Lun Harry Chao](https://sites.google.com/view/wei-lun-harry-chao/). I am broadly interested in machine learning and its applications to Computer Vision and Natural Language Processing. <br><br>
+I am a Ph.D. student in the [Department of Computer Science and Engineering](https://cse.osu.edu/) (CSE) at [The Ohio State University](https://www.osu.edu/) (OSU), advised by [Wei-Lun Harry Chao](https://sites.google.com/view/wei-lun-harry-chao/). I am broadly interested in machine learning and its applications to Vision-and-Language. <br><br>
 
 <!--🔥 **I am on the job market in 2024. Please reach out to me (kil.5@osu.edu) if you are interested in my research.** 🔥 <br><br>-->
 
-##### 💼 Experience
+<h4> 💼 Experience </h4>
 [Amazon Alexa AI](https://www.amazon.science/publications) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Research Intern <sup>May 2023 - Dec 2023</sup> <br>
 [Google Research](https://research.google) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Research Intern <sup>May 2022 - Nov 2022</sup> <br>
 [The Ohio State University](https://cse.osu.edu/) &nbsp; &nbsp; &nbsp;Graduate Research Assistant <sup>Aug 2018 - Present</sup>
