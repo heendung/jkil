@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student in the [Department of Computer Science and Engineering](https://cse.osu.edu/) (CSE) at [The Ohio State University](https://www.osu.edu/) (OSU), advised by [Wei-Lun Harry Chao](https://sites.google.com/view/wei-lun-harry-chao/). I am broadly interested in machine learning and its applications to Vision-and-Language. <br><br>
+I am a Ph.D. student in the [Department of Computer Science and Engineering](https://cse.osu.edu/) (CSE) at [The Ohio State University](https://www.osu.edu/) (OSU), advised by [Wei-Lun Harry Chao](https://sites.google.com/view/wei-lun-harry-chao/). I am broadly interested in machine learning and its applications to Vision-and-Language. Recently, I have focused on Multimodal Foundation Models, Generative AI, Web Navigation, Embodied AI, Visual Question Answering, and Scene-Text Understanding. <br>
 
-<!--🔥 **I am on the job market in 2024. Please reach out to me (kil.5@osu.edu) if you are interested in my research.** 🔥 <br><br>-->
+🔥 **I am on the job market in 2024. Please reach out to me (kil.5@osu.edu) if you are interested in my research.** 🔥<br><br>
 
 <h4> 💼 Experience </h4>
 [Amazon Alexa AI](https://www.amazon.science/publications) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Research Intern <sup>May 2023 - Dec 2023</sup> <br>
