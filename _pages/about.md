@@ -4,20 +4,17 @@ title: about
 permalink: /
 description: Computer Science & Engineering <br/> The Ohio State University <br/>  <a href="#">:email:</a>&nbsp;&nbsp;kil.5@osu.edu <br/> <a href="https://scholar.google.com/citations?user=C3O0uxcAAAAJ&hl=en">[Google Scholar]</a>&nbsp;&nbsp;<a href="https://github.com/heendung">[Github]</a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jihyung-kil-6262b2149">[LinkedIn]</a>
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
+#profile:
+#  align: left
+#  image: prof_pic.jpg
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student in the [Department of Computer Science and Engineering](https://cse.osu.edu/) (CSE) at [The Ohio State University](https://www.osu.edu/) (OSU), advised by [Wei-Lun Harry Chao](https://sites.google.com/view/wei-lun-harry-chao/). I am broadly interested in machine learning and its applications to Vision-and-Language. Recently, I have focused on the following topics:
+I am a Ph.D. student in the [Department of Computer Science and Engineering](https://cse.osu.edu/) (CSE) at [The Ohio State University](https://www.osu.edu/) (OSU), advised by [Wei-Lun Harry Chao](https://sites.google.com/view/wei-lun-harry-chao/). I am broadly interested in machine learning and its applications to Vision-Language. Recently, I have focused on the following topics:
 * Multimodal Foundation Models
 * Web Navigation, Embodied AI
 * Visual Question Answering, Scene-Text Understanding

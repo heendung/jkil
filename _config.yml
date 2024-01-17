@@ -21,7 +21,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # RSS Feed
 # -----------------------------------------------------------------------------
 # will use title and url fields
-# Take a look to https://github.com/jekyll/jekyll-feed for more customization
+ Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -231,3 +231,4 @@ popper:
 medium_zoom:
   version: "1.0.6"
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
+
