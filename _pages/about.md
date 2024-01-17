@@ -15,7 +15,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. student in the [Department of Computer Science and Engineering](https://cse.osu.edu/) (CSE) at [The Ohio State University](https://www.osu.edu/) (OSU), advised by [Wei-Lun Harry Chao](https://sites.google.com/view/wei-lun-harry-chao/). I am broadly interested in machine learning and its applications to Vision-Language. Recently, I have focused on the following topics:
-* Multimodal Foundation Models
+* Large Multimodal Models (LMMs)
 * Web Navigation, Embodied AI
 * Visual Question Answering, Scene-Text Understanding
 * Zero-Shot Learning <br>
