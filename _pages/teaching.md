@@ -4,7 +4,7 @@ permalink: /Teaching/
 title: Teaching
 order: 2
 description:
-nav: true
+nav: false
 ---
 <p><font size="4"><b>Teaching Assistant</b></font></p>
 
