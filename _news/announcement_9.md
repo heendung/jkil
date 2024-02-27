@@ -4,7 +4,7 @@ date: 01/2024
 inline: True
 ---
 
-Another <a href='https://arxiv.org/abs/2402.04476'>preprint</a> on Web Navigation is now available on arXiv.
+Our <a href='https://arxiv.org/abs/2402.11058'>II-MMR</a> on Visual Question Answering now available on arXiv.
 
 
 
