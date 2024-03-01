@@ -389,27 +389,27 @@ footer.sticky-bottom {
     text-align: right;
   }
 
-//   .badge {
-//     display: inline-block;
-//     padding: 0.25em 0.4em;
-//     font-size: 75%;
-//     font-weight: 700;
-//     line-height: 1;
-//     text-align: center;
-//     white-space: nowrap;
-//     vertical-align: baseline;
-//     border-radius: 0.25rem;
-//     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-//     position: absolute; top: 2px; left: 1px;
-// }
+  .badge {
+    display: inline-block;
+    padding: 0.25em 0.4em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    position: absolute; top: 3px; left: 18px;
+}
 
-//   .badge {
-//       background-color: var(--global-abb-color);
-//       color: white !important;
-//       border-radius: 0.125rem;
-//       -webkit-box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
-//       box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
-//   }
+  .badge {
+      background-color: #{$white-color-custom2};
+      color: var(--global-theme-color) !important;
+      border-radius: 0.125rem;
+      -webkit-box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+      box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+  }
 
   ol.bibliography {
     list-style: none;
