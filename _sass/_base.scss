@@ -395,14 +395,22 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
+      .preview {
+        width: 100%;
+        min-width: 10px;
+        max-width: 200px;
+        //max-height: 120px;
+      }
+
       .abbr {
-        height: 2rem;
+        height: 1rem;
         margin-bottom: 0.5rem;
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
+          background-color: var(--global-abb-color);
           padding-left: 1rem;
           padding-right: 1rem;
+          position: absolute; top: 5px; left: 20px;
           a {
             color: white;
             &:hover {
@@ -517,3 +525,5 @@ html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
 }
+
+
