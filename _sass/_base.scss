@@ -549,4 +549,11 @@ html.transition *:after {
   transition-delay: 0 !important;
 }
 
+@media screen and (max-width: 480px){
+  .entry-content .table-wrapper {
+      overflow-x: scroll;
+      overflow-y: hidden;
+      white-space: nowrap;
+  }
+}
 
