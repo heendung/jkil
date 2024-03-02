@@ -8,12 +8,13 @@ description: Ph.D. Candidate <br/> Computer Science & Engineering <br/> The Ohio
 profile:
   align: left
   image: prof_pic.png
+  image_circular: true
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-<br/>
+<br/> <br/> 
 I am a Ph.D. candidate in [Computer Science and Engineering](https://cse.osu.edu/) at [The Ohio State University](https://www.osu.edu/), advised by [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao/). \
 I am interested in machine learning and its applications to **Vision-Language**. Recently, I have focused on the following topics:
 * Large Multimodal Models (LMMs)
