@@ -4,9 +4,24 @@
 
 // Typography
 
-p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
+h1{
   color: var(--global-text-color);
+  font-size: 1.9rem;
 }
+
+h4{
+  color: var(--global-text-color);
+  font-size: 1.4rem;
+}
+
+p, em, div, strong{
+  color: var(--global-text-color);
+  font-size: 0.9rem;
+}
+
+//p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
+//  color: var(--global-text-color);
+//}
 
 a, table.table a {
   color: var(--global-theme-color);
@@ -191,11 +206,12 @@ blockquote {
 // News
 
 .news table td {
-  font-size: 1rem;
+  font-size: 0.9rem;
   color: var(--global-text-color);
 }
 
 .news table th {
+  font-size: 0.8rem;
   color: var(--global-text-color);
 }
 
@@ -400,12 +416,12 @@ footer.sticky-bottom {
     vertical-align: baseline;
     border-radius: 0.25rem;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-    position: absolute; top: 3px; left: 18px;
+    position: absolute; top: 6px; left: 5px;
 }
 
   .badge {
-      background-color: #{$white-color-custom2};
-      color: var(--global-theme-color) !important;
+      background-color: var(--global-theme-color);
+      color: #{$white-color-custom} !important;
       border-radius: 0.125rem;
       -webkit-box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
       box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
@@ -433,7 +449,7 @@ footer.sticky-bottom {
           background-color: var(--global-abb-color);
           padding-left: 1rem;
           padding-right: 1rem;
-          position: absolute; top: 5px; left: 20px;
+          position: absolute; top: 5px; left: 10px;
           a {
             color: white;
             &:hover {
@@ -449,6 +465,7 @@ footer.sticky-bottom {
       .title {
         font-weight: bolder;
       }
+      
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);
