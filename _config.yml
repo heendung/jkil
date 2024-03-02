@@ -31,7 +31,7 @@ navbar_fixed: true
 footer_fixed: false
 
 # Dimensions
-max_width: 900px
+max_width: 850px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -104,7 +104,7 @@ collections:
     output: true
     permalink: /experience/:path/
 
-news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 8 # leave blank to include all the news in the `_news` folder
 
 experience_limit: 10
