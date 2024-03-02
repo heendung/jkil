@@ -79,15 +79,10 @@ blockquote {
     }
   }
 }
-@media only screen and (max-width: 400px) {
-  .wechat-modal > img {
-    width: 50%;
-  }
-}
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 32%;
     .address {
       p { display: block; }
     }
