@@ -7,7 +7,7 @@ description: Ph.D. Candidate <br/> Computer Science & Engineering <br/> The Ohio
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: prof_pic.png
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
