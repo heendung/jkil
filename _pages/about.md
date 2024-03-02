@@ -21,7 +21,7 @@ I am interested in machine learning and its applications to **Vision-Language**.
 * Visual Question Answering, Scene-Text Understanding
 * Few/Zero-Shot Learning <br>
 
-🔥 **I am on the job market in 2024. Please reach out to me (kil.5@osu.edu) if you are interested in my research.** 🔥<br><br>
+🔥 **I am on the job market in 2024. Please contact me (kil.5@osu.edu) if you are interested in my research.** 🔥<br><br>
 
 <h4> 💼 Experience </h4>
 [Amazon Alexa AI](https://www.amazon.science/publications) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Research Intern <sup>May 2023 - Dec 2023</sup> <br>
