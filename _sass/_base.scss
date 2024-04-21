@@ -94,7 +94,6 @@ blockquote {
 
 @media (min-height: 480px) {
   div.table-responsive {
-    min-height: 300px;
     overflow-x: hidden;
     overflow-y: visible;
     text-align: left;
@@ -240,7 +239,6 @@ blockquote {
 // News
 
 .news table td {
-  max-height: 250px;
   font-size: 0.9rem;
   padding-bottom: 0.1rem;
   color: var(--global-text-color);
