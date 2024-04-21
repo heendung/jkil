@@ -84,6 +84,11 @@ blockquote {
   }
 }
 
+.table-responsive{
+  max-height: 120px;
+  overflow-y:scroll;
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 32%;
