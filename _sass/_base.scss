@@ -91,16 +91,9 @@ blockquote {
   }
 }
 
-@media (min-width: 576px) {
-  .profile {
-    width: 32%;
-    .address {
-      p { display: block; }
-    }
-  }
 
+@media (min-height: 480px) {
   .news table td {
-    height: 100%;
     font-size: 0.9rem;
     padding-bottom: 0.1rem;
     color: var(--global-text-color);
@@ -111,7 +104,15 @@ blockquote {
     padding-bottom: 0.1rem;
     color: var(--global-text-color);
   }
+}
 
+@media (min-width: 576px) {
+  .profile {
+    width: 32%;
+    .address {
+      p { display: block; }
+    }
+  }
 }
 
 .post-description {
