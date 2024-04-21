@@ -93,6 +93,13 @@ blockquote {
 
 
 @media (min-height: 480px) {
+  div.table-responsive {
+    overflow-x: hidden;
+    overflow-y: visible;
+    text-align: left;
+    padding: 10px;
+  }
+  
   .news table td {
     font-size: 0.9rem;
     padding-bottom: 0.1rem;
