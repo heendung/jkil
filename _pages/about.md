@@ -23,7 +23,7 @@ I am interested in machine learning and its applications to **Vision-Language**.
 
 🔥 **I am on the job market in 2024. Please contact me if you are interested in my research.** 🔥<br><br>
 
-<h4> 💼 Experience </h4>
+<h5>Experience</h5>
 [Amazon Alexa AI](https://www.amazon.science/publications) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Research Intern <sup>May 2023 - Dec 2023</sup> <br>
 [Google Research](https://research.google) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Research Intern <sup>May 2022 - Nov 2022</sup> <br>
 [The Ohio State University](https://cse.osu.edu/) &nbsp; &nbsp; &nbsp;Graduate Research Assistant <sup>Aug 2018 - Present</sup>
