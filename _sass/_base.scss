@@ -91,6 +91,12 @@ blockquote {
       p { display: block; }
     }
   }
+
+  .table-responsive{
+    max-height: 120px;
+    overflow-y:scroll;
+  }
+
 }
 
 .post-description {
