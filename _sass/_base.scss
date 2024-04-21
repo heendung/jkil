@@ -100,7 +100,7 @@ blockquote {
   }
 
   .news table td {
-    max-height: 250px;
+    height: 100%;
     font-size: 0.9rem;
     padding-bottom: 0.1rem;
     color: var(--global-text-color);
@@ -111,7 +111,7 @@ blockquote {
     padding-bottom: 0.1rem;
     color: var(--global-text-color);
   }
-  
+
 }
 
 .post-description {
