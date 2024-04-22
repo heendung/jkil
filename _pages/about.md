@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Ph.D. Candidate <br/> Computer Science <br/> The Ohio State University <br/>  <a href="#">:email:</a>&nbsp;&nbsp;kil.5@osu.edu <br/> <br/> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/jihyung-kil-6262b2149">LinkedIn</a> / <a href="https://twitter.com/Jihyung_Kil">Twitter</a> / <a href="https://scholar.google.com/citations?user=C3O0uxcAAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/heendung">Github</a>
+description: Ph.D. Candidate <br/> Computer Science <br/> The Ohio State University <br/>  <a href="#">:email:</a>&nbsp;&nbsp;kil.5@osu.edu <br/> <br/> <a href="https://www.linkedin.com/in/jihyung-kil-6262b2149">LinkedIn</a> / <a href="https://twitter.com/Jihyung_Kil">Twitter</a> / <a href="https://scholar.google.com/citations?user=C3O0uxcAAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/heendung">Github</a>
 
 profile:
   align: left
