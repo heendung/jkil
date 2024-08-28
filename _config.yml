@@ -145,6 +145,7 @@ plugins:
   - jekyll-github-metadata
   - jekyll-feed
   - jekyll-paginate-v2
+  - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-twitter-plugin
   - jekyll-sitemap

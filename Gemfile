@@ -5,6 +5,7 @@ group :jekyll_plugins do
     gem 'jekyll-feed'
     gem 'jekyll-github-metadata'
     gem 'jekyll-paginate-v2'
+    gem 'jekyll-regex-replace'
     gem 'jekyll-scholar'
     gem 'jekyll-twitter-plugin'
     gem 'jekyll-sitemap'
