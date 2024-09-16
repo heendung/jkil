@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 I am a Research Scientist at <a href="https://research.adobe.com/">Adobe Research</a>. I earned my Ph.D. in Computer Science and Engineering from The Ohio State University, where I was fortunate to work with [Wei-Lun (Harry) Chao](https://sites.google.com/view/wei-lun-harry-chao/). Before joining Adobe Research, I interned at <a href="https://research.google">Google Research</a> and <a href="https://www.amazon.science/publications">Amazon Alexa AI</a>.
 
 I am broadly interested in Vision and Language. Recently, I have been focusing on the following topics:
- - **Multimodal document understanding (e.g., textbooks with figures and charts)**
+ - **Multimodal document understanding (e.g., textbooks with figures and tables)**
  - **Multimodal web/UI agents**
 
 Feel free to contact me for **university collaborations** and **internships**.
