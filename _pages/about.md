@@ -22,6 +22,6 @@ I am broadly interested in **Vision and Language**. Recently, I have been focusi
  - Multimodal document understanding (e.g., textbooks with figures and charts)
  - Multimodal web/UI agents 
 
-<strong> Feel free to contact me for university collaborations and internships</strong>.
+<strong> Feel free to contact me for university collaborations and internships.</strong>
 
 
